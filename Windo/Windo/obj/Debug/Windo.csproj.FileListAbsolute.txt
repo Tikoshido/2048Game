@@ -1,0 +1,10 @@
+c:\users\igor\documents\visual studio 2015\Projects\Windo\Windo\bin\Debug\Windo.exe.config
+c:\users\igor\documents\visual studio 2015\Projects\Windo\Windo\bin\Debug\Windo.exe
+c:\users\igor\documents\visual studio 2015\Projects\Windo\Windo\bin\Debug\Windo.pdb
+c:\users\igor\documents\visual studio 2015\Projects\Windo\Windo\obj\Debug\Windo.csprojResolveAssemblyReference.cache
+c:\users\igor\documents\visual studio 2015\Projects\Windo\Windo\obj\Debug\Windo.Form1.resources
+c:\users\igor\documents\visual studio 2015\Projects\Windo\Windo\obj\Debug\Windo.Properties.Resources.resources
+c:\users\igor\documents\visual studio 2015\Projects\Windo\Windo\obj\Debug\Windo.csproj.GenerateResource.Cache
+c:\users\igor\documents\visual studio 2015\Projects\Windo\Windo\obj\Debug\Windo.exe
+c:\users\igor\documents\visual studio 2015\Projects\Windo\Windo\obj\Debug\Windo.pdb
+C:\Users\Igor\Documents\Visual Studio 2015\Projects\Windo\Windo\obj\Debug\Windo.csproj.CoreCompileInputs.cache
